@@ -336,7 +336,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title">
                     <h3 class="wow fadeInUp">our work</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque">Our project <span>latest</span></h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque">Our latest <span>Projects</span></h2>
                 </div>
                 <!-- Section Title End -->
             </div>
